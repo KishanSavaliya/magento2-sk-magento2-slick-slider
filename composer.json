@@ -1,5 +1,5 @@
 {
-    "name": "magento2-sk/magento2-slick-slider",
+    "name": "mage2sk/module-slick-slider",
     "description": "Magento 2 Slick Slider Sample Module",
     "type": "magento2-module",
     "keywords": [
@@ -14,7 +14,7 @@
         "OSL-3.0",
         "AFL-3.0"
     ],
-    "version": "2.0.4",
+    "version": "2.0.5",
     "authors": [{
         "name": "Kishan Savaliya",
         "email": "kishansavaliyakb@gmail.com"
