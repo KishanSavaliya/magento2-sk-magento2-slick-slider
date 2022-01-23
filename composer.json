@@ -14,7 +14,7 @@
         "OSL-3.0",
         "AFL-3.0"
     ],
-    "version": "2.0.1",
+    "version": "2.0.2",
     "authors": [{
         "name": "Kishan Savaliya",
         "email": "kishansavaliyakb@gmail.com"
@@ -31,6 +31,7 @@
         }
     },
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "repositories": {
         "magento": {
             "type": "composer",
